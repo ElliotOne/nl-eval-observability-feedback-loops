@@ -96,10 +96,10 @@ This is a simple stand-in for continuous improvement loops in production.
 |   +-- EvaluationCase.cs
 |   +-- EvaluationResult.cs
 |   +-- EvaluationSuite.cs
-|   +-- FeedbackLoop.cs
+|   +-- FeedbackProcessor.cs
 |   +-- ModelClients.cs
 |   +-- PromptPolicy.cs
-|   +-- Telemetry.cs
+|   +-- TelemetrySink.cs
 +-- LICENSE
 +-- README.md
 ```
